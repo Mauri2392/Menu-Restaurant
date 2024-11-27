@@ -53,7 +53,7 @@ p {
     justify-content: space-around; 
     padding-top: 10px;
     padding-bottom: 10px; 
-    background-color: var(--secondary);
+    background-color: var(--white);
 } 
 
 .flag-icon {
@@ -258,11 +258,8 @@ p {
     margin-bottom: 10px;
 } */ 
 
-
-
-
 footer {
-    background-color: var(--fourth); 
+    background-color: var(--white); 
     display: flex;
     justify-content: center; 
     text-align: center;
